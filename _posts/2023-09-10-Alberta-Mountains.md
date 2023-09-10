@@ -5,4 +5,4 @@ categories:
 tags:
   - Images
 ---
-Here are some images I took of the Alberta's Mountains.
+Here are some images I took of Alberta's Mountains.
