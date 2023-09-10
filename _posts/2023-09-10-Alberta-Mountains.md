@@ -5,8 +5,8 @@ categories:
 tags:
   - Images
 gallery:
-  - url: /assets/images/mountain1.webp
-    image_path: /assets/images/mountain-th1.webp
+  - url: /assets/images/mountain1.png
+    image_path: /assets/images/mountain-th1.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
