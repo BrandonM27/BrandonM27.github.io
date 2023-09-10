@@ -17,4 +17,5 @@ gallery:
     image_path: /assets/images/mountain4.png   
 ---
 {% include gallery %}
-Here are some images I took of Alberta's Mountains. I will upload the photos in its original quality once I find my SD card...
+Here are some images I took of Alberta's Mountains. 
+I will upload the photos in its original quality once I find my SD card...
