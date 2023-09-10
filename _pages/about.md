@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I'm Brandon. This personal site is meant to host personal images, projects and games. More to come soon.
+Hey, I'm Brandon. This site will be used to host my images, projects, and games. 
