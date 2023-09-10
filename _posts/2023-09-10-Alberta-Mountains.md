@@ -16,3 +16,4 @@ gallery:
 ---
 {% include gallery %}
 Here are some images I took of Alberta's Mountains. 
+I will upload the photos in its original quality once I find my SD card…
