@@ -9,6 +9,5 @@ gallery:
     image_path: /assets/images/mountain1.png
     alt: "Mountain"
     title: "This is a mountain."
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 ---
 Here are some images I took of Alberta's Mountains.
