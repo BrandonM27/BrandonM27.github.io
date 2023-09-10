@@ -9,6 +9,6 @@ gallery:
     image_path: /assets/images/mountain1.png
     alt: "Mountain"
     title: "This is a mountain."
-{% include gallery id="gallery" class="full" layout="half" %}
+{% include %}
 ---
 Here are some images I took of Alberta's Mountains.
