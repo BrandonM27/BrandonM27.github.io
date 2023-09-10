@@ -44,7 +44,7 @@ plugins:
 author:
   name   : "Brandon M"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Brandon. This website is a work-in-progress and is not representative of the final product."
+  bio    : "This website is a work-in-progress and is not representative of the final product. Well, I think the UI is pretty solid.. and modern."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
