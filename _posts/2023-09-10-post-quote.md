@@ -3,8 +3,7 @@ title: "First Post, First Quote..."
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Quote
 ---
 
 > What has been will be again,
