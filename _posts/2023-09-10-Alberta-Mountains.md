@@ -6,7 +6,7 @@ tags:
   - Images
 gallery:
   - url: /assets/images/mountain1.webp
-    image_path: /assets/images/mountain1.webp
+    image_path: /assets/images/mountain-th1.webp
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
