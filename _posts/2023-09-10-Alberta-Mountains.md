@@ -1,9 +1,8 @@
 ---
-title: "Post: Quote"
+title: "Alberta Mountains"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Images
 ---
-This is a placeholder.
+Here are some images I took of the Alberta Mountains. They are impressive enough to be shared online.
