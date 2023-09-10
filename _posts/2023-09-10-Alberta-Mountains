@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "Alberta Mountains!"
+title: "Post: Quote"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - quote
 ---
-
-# Welcome
-
-**Hello world**, this is my first blog post.
-
-I hope you like it!
+This is a placeholder.
