@@ -10,6 +10,7 @@ gallery:
 ---
 {% include gallery %}
 Week 1 Top Performers - Cowboys D/ST 35.0 pts
+
 Okay, my thoughts before the Bills @ Jets game.
 
 I expected to lose this week due to my #1.01 draft pick, Kelce being out.
