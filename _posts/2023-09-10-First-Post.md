@@ -1,5 +1,5 @@
 ---
-title: "First Post, First Quote..."
+title: "First Post"
 categories:
   - Blog
 tags:
