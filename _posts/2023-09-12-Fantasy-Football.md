@@ -1,5 +1,5 @@
 ---
-title: "Fantasy Football"
+title: "Fantasy Football Week 1"
 categories:
   - Blog
 tags:
