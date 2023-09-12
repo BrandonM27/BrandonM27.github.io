@@ -49,18 +49,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://brandonm27.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Rizenszn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BrandonM27"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Rizenszn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BrandonM27"
