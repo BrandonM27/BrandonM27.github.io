@@ -7,6 +7,6 @@ tags:
 ---
 I went 0-2 because I was focusing on the Fantasy Baseball Playoffs.
 
-No comment. The road to Rome begins here.
+No comment. The Road to Rome begins here.
 
 Season Record: 0-2-0
